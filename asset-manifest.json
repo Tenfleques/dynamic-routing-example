@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-routing-example/static/css/main.34de6062.chunk.css",
+    "main.js": "/dynamic-routing-example/static/js/main.69e87caa.chunk.js",
+    "main.js.map": "/dynamic-routing-example/static/js/main.69e87caa.chunk.js.map",
+    "runtime~main.js": "/dynamic-routing-example/static/js/runtime~main.40790f82.js",
+    "runtime~main.js.map": "/dynamic-routing-example/static/js/runtime~main.40790f82.js.map",
+    "static/js/2.1714a347.chunk.js": "/dynamic-routing-example/static/js/2.1714a347.chunk.js",
+    "static/js/2.1714a347.chunk.js.map": "/dynamic-routing-example/static/js/2.1714a347.chunk.js.map",
+    "index.html": "/dynamic-routing-example/index.html",
+    "precache-manifest.3858fab70075896fc0ba1e260dd42a87.js": "/dynamic-routing-example/precache-manifest.3858fab70075896fc0ba1e260dd42a87.js",
+    "service-worker.js": "/dynamic-routing-example/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/dynamic-routing-example/static/css/main.34de6062.chunk.css.map"
+  }
+}
